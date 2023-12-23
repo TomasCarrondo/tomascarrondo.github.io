@@ -196,28 +196,28 @@ defaults:
       path: 
       type: 
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: 
+      author_profile: 
+      read_time: 
+      comments: 
+      share: 
+      related: 
   # _pages
   - scope:
       path: 
       type: 
     values:
-      layout: single
-      author_profile: true
+      layout: 
+      author_profile: 
   # _teaching
   - scope:
       path: 
       type: 
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      layout: 
+      author_profile: 
+      share: 
+      comments: 
   # _publications
   - scope:
       path: ""
