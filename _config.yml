@@ -190,34 +190,7 @@ collections:
 
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: 
-      type: 
-    values:
-      layout: 
-      author_profile: 
-      read_time: 
-      comments: 
-      share: 
-      related: 
-  # _pages
-  - scope:
-      path: 
-      type: 
-    values:
-      layout: 
-      author_profile: 
-  # _teaching
-  - scope:
-      path: 
-      type: 
-    values:
-      layout: 
-      author_profile: 
-      share: 
-      comments: 
+defaults: 
   # _publications
   - scope:
       path: ""
