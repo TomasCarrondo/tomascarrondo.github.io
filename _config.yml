@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomás Carrondo"
+title                    : "Tomás' Webpage"
 title_separator          : "-"
 name                     : &name "Tomás"
 description              : &description "personal description"
@@ -84,10 +84,10 @@ author:
   avatar           : "evenementon550-2e713.png"
   bio              : "Mathematics student exploring the beauty within"
   location         : "Delft, The Netherlands"
-  emplyer          : 
+  emplyer          : "TU Delft"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "tomas.carrondo@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
