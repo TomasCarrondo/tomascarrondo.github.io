@@ -12,8 +12,8 @@ In the initial part of October, my primary focus was directed towards exploring 
 However, a significant shift occurred as my attention veered towards kernel learning. The introduction to the Neural Tangent Kernel (NTK) marked a pivotal moment, prompting further exploration into Neural Signature Kernels [4]. In an effort to deepen my comprehension, I undertook the derivation of an explicit expression for the NTK of the controlled ResNets as detailed in [4]. Concurrently, I delved into the tensor programs framework [5,6]. The direct derivation posed challenges with intricate recursions, and the tensor programs raised reservations regarding the arguments presented. Seeking clarification, I reached out to the principal author of [4], learning of progress in deriving an NTK expression, with certain technicalities yet to be resolved. In addition, it's noteworthy to mention that most things related to Deep Learning or Kernel Learning were entirely novel to me, rendering this month particularly enriching in terms of knowledge acquisition.
 
 Main works of October: 
-1. Futter, Owen, Blanka Horvath, and Magnus Wiese. ‘Signature Trading: A Path-Dependent Extension of the Mean-Variance Framework with Exogenous Signals’. SSRN Scholarly Paper. Rochester, NY, 24 August 2023. [link](https://doi.org/10.2139/ssrn.4541830.)
-2. Cuchiero, Christa, and Janka Möller. ‘Signature Methods in Stochastic Portfolio Theory’. arXiv, 3 October 2023. [link](https://doi.org/10.48550/arXiv.2310.02322.)
+1. Futter, Owen, Blanka Horvath, and Magnus Wiese. ‘Signature Trading: A Path-Dependent Extension of the Mean-Variance Framework with Exogenous Signals’. SSRN Scholarly Paper. Rochester, NY, 24 August 2023. [link](https://doi.org/10.2139/ssrn.4541830).
+2. Cuchiero, Christa, and Janka Möller. ‘Signature Methods in Stochastic Portfolio Theory’. arXiv, 3 October 2023. [link](https://doi.org/10.48550/arXiv.2310.02322).
 
 # September 2023
 
