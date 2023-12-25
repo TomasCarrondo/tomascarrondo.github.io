@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tomás' Webpage"
 title_separator          : "-"
-name                     : &name "Tomás"
+name                     : &name "Tomás Carrondo"
 description              : &description "personal description"
 url                      : https://tomascarrondo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
