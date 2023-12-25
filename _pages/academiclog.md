@@ -5,6 +5,23 @@ permalink: /academiclog/
 author_profile: true
 ---
 
+# November 2023
+
+In light of my discussions in the previous month, I made a strategic decision to shift my focus, opting to discontinue exploration of the Neural Tangent Kernel (NTK) of the controlled ResNets. However, I maintained a steadfast commitment to working with signatures in the realm of kernel methods. A significant portion of my efforts was dedicated to deepening my understanding of signature kernels, delving into relevant literature such as [1], [2], and [4].
+
+In the course of my research, I encountered the concepts of universality and characteristicness within the broader scope of kernel learning. Additionally, I came across kernel scoring rules, a discovery facilitated by the insights provided in [5], along with an exploration of the associated concept of strict properness. This led me to engage in the development of a more straightforward proof (or so I believe) regarding the strict properness of the scoring rule outlined in [5].
+
+In parallel, my curiosity extended to pondering the Reproducing Kernel Hilbert Space (RKHS) associated with the signature kernel. This contemplation added a layer of depth to my exploration of kernel methods. Moreover, November proved to be a fruitful month for expanding my knowledge in Analysis within Banach spaces, enriching my understanding of the mathematical foundations underpinning my research pursuits.
+
+### Main works of November:
+1. Király, Franz J., and Harald Oberhauser. ‘Kernels for Sequentially Ordered Data’. arXiv, 29 January 2016. [link](http://arxiv.org/abs/1601.08169).
+2. Lee, Darrick, and Harald Oberhauser. ‘The Signature Kernel’. arXiv, 8 May 2023. [link](https://doi.org/10.48550/arXiv.2305.04625).
+3. Salvi, Cristopher, Thomas Cass, James Foster, Terry Lyons, and Weixin Yang. ‘The Signature Kernel Is the Solution of a Goursat PDE’. SIAM Journal on Mathematics of Data Science 3, no. 3 (January 2021): 873–99. [link](https://doi.org/10.1137/20M1366794).
+4. Cass, Thomas, Terry Lyons, and Xingcheng Xu. ‘General Signature Kernels’. arXiv, 1 July 2021. [link](https://doi.org/10.48550/arXiv.2107.00447).
+5. Issa, Zacharia, Blanka Horvath, Maud Lemercier, and Cristopher Salvi. ‘Non-Adversarial Training of Neural SDEs with Signature Kernel Scores’. arXiv, 25 May 2023. [link](https://doi.org/10.48550/arXiv.2305.16274).
+6. Steinwart, Ingo, and Johanna F. Ziegel. ‘Strictly Proper Kernel Scores and Characteristic Kernels on Compact Spaces’. Applied and Computational Harmonic Analysis 51 (1 March 2021): 510–42. [link](https://doi.org/10.1016/j.acha.2019.11.005).
+
+
 # October 2023
 
 In the initial part of October, my primary focus was directed towards exploring the applications of path signatures in the context of portfolio optimization [1]. It was during this exploration that I became acquainted with the universality property of signatures, a concept likely to feature prominently in my upcoming thesis. Despite lacking a clear thesis direction, fueled by curiosity, I delved into Stochastic Portfolio Theory and Signature-based methods within this domain, aiming to grasp their implications and potential advantages [2].
