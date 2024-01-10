@@ -12,12 +12,12 @@ The commencement of December marked the discovery of a pivotal paper, [1]. This 
 On another front, I did some work within the context of optimal stopping problems. I paid special attention to the works [2] and [3]. The former operates within the space of stopped rough paths, while the latter navigates the space of naturally adapted processes. My engagement with [3] exposed me to Wasserstein spaces and adapted topologies, which, in essence, are stronger topologies in the realm of filtered processes that incorporate the information embedded in their respective filtrations. Simultaneously, I sustained my exploration of kernel theory, delving into proof attempts and discerning the emergence of novel ideas with promising potential. For now, I won't go into more details. 
 
 ### Main works of December:
-1. Cuchiero, Christa, Philipp Schmocker, and Josef Teichmann. ‘Global Universal Approximation of Functional Input Maps on Weighted Spaces’. arXiv, 21 September 2023. (link)[http://arxiv.org/abs/2306.03303].
-2. Bayer, Christian, Luca Pelizzari, and John Schoenmakers. ‘Primal and Dual Optimal Stopping with Signatures’. arXiv, 6 December 2023. (link)[http://arxiv.org/abs/2312.03444].
-3. Horvath, Blanka, Maud Lemercier, Chong Liu, Terry Lyons, and Cristopher Salvi. ‘Optimal Stopping via Distribution Regression: A Higher Rank Signature Approach’. arXiv, 3 April 2023. (link)[http://arxiv.org/abs/2304.01479].
-4. Bartl, Daniel, Mathias Beiglböck, and Gudmund Pammer. ‘The Wasserstein Space of Stochastic Processes’. arXiv, 11 August 2023. (link)[http://arxiv.org/abs/2104.14245].
-5. Bonnier, Patric, Chong Liu, and Harald Oberhauser. ‘Adapted Topologies and Higher Rank Signatures’. arXiv, 13 April 2021. (link)[http://arxiv.org/abs/2005.08897].
-6. Backhoff-Veraguas, Julio, Daniel Bartl, Mathias Beiglböck, and Manu Eder. ‘All Adapted Topologies Are Equal’. Probability Theory and Related Fields 178, no. 3–4 (December 2020): 1125–72. (link)[https://doi.org/10.1007/s00440-020-00993-8].
+1. Cuchiero, Christa, Philipp Schmocker, and Josef Teichmann. ‘Global Universal Approximation of Functional Input Maps on Weighted Spaces’. arXiv, 21 September 2023. [link](http://arxiv.org/abs/2306.03303).
+2. Bayer, Christian, Luca Pelizzari, and John Schoenmakers. ‘Primal and Dual Optimal Stopping with Signatures’. arXiv, 6 December 2023. [link](http://arxiv.org/abs/2312.03444).
+3. Horvath, Blanka, Maud Lemercier, Chong Liu, Terry Lyons, and Cristopher Salvi. ‘Optimal Stopping via Distribution Regression: A Higher Rank Signature Approach’. arXiv, 3 April 2023. [link](http://arxiv.org/abs/2304.01479).
+4. Bartl, Daniel, Mathias Beiglböck, and Gudmund Pammer. ‘The Wasserstein Space of Stochastic Processes’. arXiv, 11 August 2023. [link](http://arxiv.org/abs/2104.14245).
+5. Bonnier, Patric, Chong Liu, and Harald Oberhauser. ‘Adapted Topologies and Higher Rank Signatures’. arXiv, 13 April 2021. [link](http://arxiv.org/abs/2005.08897).
+6. Backhoff-Veraguas, Julio, Daniel Bartl, Mathias Beiglböck, and Manu Eder. ‘All Adapted Topologies Are Equal’. Probability Theory and Related Fields 178, no. 3–4 (December 2020): 1125–72. [link](https://doi.org/10.1007/s00440-020-00993-8).
 
 
 # November 2023
