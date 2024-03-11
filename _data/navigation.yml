@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: /files/CV_Dec2023.pdf
+    url: /files/newcv2.pdf
 
   - title: "Academic Log"
     url: /academiclog/
