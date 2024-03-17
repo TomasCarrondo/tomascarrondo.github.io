@@ -5,6 +5,20 @@ permalink: /academiclog/
 author_profile: true
 ---
 
+# January 2024
+
+Building upon the groundwork laid in the preceding month, I delved deeper into the works discovered previously. Additionally, I embarked on drafting a manuscript aimed at establishing a bridge between the weighted function spaces elucidated in [1] and the classical theory of universal kernels. While acknowledging this contribution to be modest, I deem it pertinent and undoubtedly interesting.
+
+My continued exploration was driven by the motivation to apply these theoretical constructs to optimal stopping problems. Thus, I persisted in investigating adapted topologies, the higher rank signatures outlined in [2], and the Wasserstein spaces delineated in [3]. I discerned a profound resonance among these works and [1]. At the core of these endeavors lies the idea of modifying the underlying topology of a space to either strengthen it, potentially leading to the continuity of certain mappings, or to weaken it, thereby engendering other desirable properties such as the compactness of balls. With enough ingenuity one may find the right balance and take advantage of both scenarios.
+
+Admittingly, January afforded me the luxury of indulging in mathematical exploration, allowing me to immerse myself fully in the intricacies of the subject matter at hand.
+
+### Main works of December:
+1. Cuchiero, Christa, Philipp Schmocker, and Josef Teichmann. ‘Global Universal Approximation of Functional Input Maps on Weighted Spaces’. arXiv, 21 September 2023. [link](http://arxiv.org/abs/2306.03303).
+2. Bonnier, Patric, Chong Liu, and Harald Oberhauser. ‘Adapted Topologies and Higher Rank Signatures’. arXiv, 13 April 2021. [link](http://arxiv.org/abs/2005.08897).
+3. Bartl, Daniel, Mathias Beiglböck, and Gudmund Pammer. ‘The Wasserstein Space of Stochastic Processes’. arXiv, 11 August 2023. [link](http://arxiv.org/abs/2104.14245).
+
+
 # December 2023
 
 The commencement of December marked the discovery of a pivotal paper, [1]. This paper, without delving excessively into theoretical intricacies, elucidates that the well-established universality property of Signatures on the space of continuous functions over a compact set of paths can undergo significant generalization when applied to certain functions across the entire path space by employing weighted spaces. Intuitively, a weighted space comprises a topological space coupled with a mapping that regulates the growth of functions outside of compact sets within said topological space. The implications of this discovery resonated deeply with me, sparking immediate contemplation of potential applications within various contexts.
