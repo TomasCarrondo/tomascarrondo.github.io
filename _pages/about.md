@@ -16,4 +16,4 @@ Presently, I am immersed in my MSc thesis, under the guidance of [Prof. Fenghui 
 
 Lastly, I am also working as a Teaching Assistant for three courses at TU Delft. Namely, "Martingales and Brownian Motion" (MSc), "Introduction to Financial Mathematics" (MSc), and "Differential Equations" (BSc). 
 
-As for non-academic interests,I pride myself on being something of a cinephile, who has committed to memory an extensive roster of talented movie directors. 
+As for non-academic interests, I pride myself on being something of a cinephile, who has committed to memory an extensive roster of talented movie directors. 
