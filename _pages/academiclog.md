@@ -17,6 +17,8 @@ Admittingly, January afforded me the luxury of indulging in mathematical explora
 1. Cuchiero, Christa, Philipp Schmocker, and Josef Teichmann. ‘Global Universal Approximation of Functional Input Maps on Weighted Spaces’. arXiv, 21 September 2023. [link](http://arxiv.org/abs/2306.03303).
 2. Bonnier, Patric, Chong Liu, and Harald Oberhauser. ‘Adapted Topologies and Higher Rank Signatures’. arXiv, 13 April 2021. [link](http://arxiv.org/abs/2005.08897).
 3. Bartl, Daniel, Mathias Beiglböck, and Gudmund Pammer. ‘The Wasserstein Space of Stochastic Processes’. arXiv, 11 August 2023. [link](http://arxiv.org/abs/2104.14245).
+4. Eder, Manu. "Compactness in adapted weak topologies." arXiv preprint (2019). [link](https://arxiv.org/abs/1905.00856)
+5. Pammer, Gudmund. "A note on the adapted weak topology in discrete time." arXiv (2022): 1-13.[link](https://arxiv.org/abs/2205.00989)
 
 
 # December 2023
