@@ -13,7 +13,7 @@ My continued exploration was driven by the motivation to apply these theoretical
 
 Admittingly, January afforded me the luxury of indulging in mathematical exploration, allowing me to immerse myself fully in the intricacies of the subject matter at hand.
 
-### Main works of December:
+### Main works of January:
 1. Cuchiero, Christa, Philipp Schmocker, and Josef Teichmann. ‘Global Universal Approximation of Functional Input Maps on Weighted Spaces’. arXiv, 21 September 2023. [link](http://arxiv.org/abs/2306.03303).
 2. Bonnier, Patric, Chong Liu, and Harald Oberhauser. ‘Adapted Topologies and Higher Rank Signatures’. arXiv, 13 April 2021. [link](http://arxiv.org/abs/2005.08897).
 3. Bartl, Daniel, Mathias Beiglböck, and Gudmund Pammer. ‘The Wasserstein Space of Stochastic Processes’. arXiv, 11 August 2023. [link](http://arxiv.org/abs/2104.14245).
